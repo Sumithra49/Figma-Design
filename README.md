@@ -1,7 +1,7 @@
 
 # Figma Project
 
-Welcome to the Saviour Project! This project is built using React and Chakra UI to create a modern, responsive user interface for a blockchain-based application. The application features various sections, including an introduction, IDO event participation, tokenomics, and a roadmap.
+Welcome to the Figma Project! This project is built using React and Chakra UI to create a modern, responsive user interface for a blockchain-based application. The application features various sections, including an introduction, IDO event participation, tokenomics, and a roadmap.
 
 # Tech stack
 1. React
