@@ -7,7 +7,8 @@ Welcome to the Saviour Project! This project is built using React and Chakra UI 
 1. React
 2. Chakra UI
 
-3.  # Deployment link:https://figma-design-three-gamma.vercel.app/
+3.  # Deployment link
+  https://figma-design-three-gamma.vercel.app/
 
 # Folder Structure
 
