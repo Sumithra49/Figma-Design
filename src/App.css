@@ -1,0 +1,19 @@
+:root{
+  background-color: black;
+  font-family: "ZCOOL KuaiLe", sans-serif;
+}
+.span{
+  color: grey;
+}
+.heading-text{
+  font-family: "Shojumaru";
+  font-weight: 400;
+ font-size: 44px;
+ color: red;
+}
+.span-p{
+  font-family: "ZCOOL KuaiLe";
+  color: red;
+  font-size: 20px;
+  padding-left: 40px;
+}
