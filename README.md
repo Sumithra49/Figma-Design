@@ -46,6 +46,16 @@ Figma-Design
 ├── README.md
 └── vit.config.js
 
+# images
+![image](https://github.com/Sumithra49/Figma-Design/assets/141726527/4a4481a8-e0bb-4a6b-9f0b-1a2d074e9bd6)
+
+![image](https://github.com/Sumithra49/Figma-Design/assets/141726527/16de7c60-a7a2-4782-93b3-4f25d20a829e)
+
+![image](https://github.com/Sumithra49/Figma-Design/assets/141726527/0fbd6adb-2c15-4f15-8b0b-cb7801fb9770)
+
+
+
+
   
 
    
